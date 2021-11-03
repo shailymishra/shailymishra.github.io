@@ -9,7 +9,8 @@ last_name: Mishra
 email: shaily.mishra@research.iiit.ac.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: 
+footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
  
 icon: address-card  # the emoji used as the favicon
 url: https://shailymishra.github.io # the base hostname & protocol for your site
@@ -75,8 +76,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Shaily Mishra   # your blog must have a name for it to show up in the nav bar
+blog_description: Fairness, Game Theory, Machine Learning, and more.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -84,7 +85,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: shaily-mishra # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-9-17 15:30:00+0530
 inline: true
 ---
 
-A simple inline announcement.
+I delivered a lecture on Game-Theoretic Fairness in CSE504: Fairness, Privacy, and Ethics in AI

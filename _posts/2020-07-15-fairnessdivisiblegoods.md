@@ -1,11 +1,13 @@
 ---
 layout: post
-title: a post with diagrams
-date: 2021-07-04 17:39:00
-description: an example of a blog post with diagrams
+title: Cake-Cutting Procedures
+date: 2020-07-15 17:39:00
+description: Examples of fair allocation procedures for divisible goods
+read_time : 4
+link : https://medium.com/@shailymishra/examples-of-cake-cutting-procedures-ab19c77bc3b8
 ---
 
-This theme supports generating various diagrams from a text description using [jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams){:target="\_blank"} plugin.
+<!-- This theme supports generating various diagrams from a text description using [jekyll-diagrams](https://github.com/zhustec/jekyll-diagrams){:target="\_blank"} plugin.
 Below, we generate a few examples of such diagrams using languages such as [mermaid](https://mermaid-js.github.io/mermaid/){:target="\_blank"}, [plantuml](https://plantuml.com/){:target="\_blank"}, [vega-lite](https://vega.github.io/vega-lite/){:target="\_blank"}, etc.
 
 **Note:** different diagram-generation packages require external dependencies to be installed on your machine.
@@ -29,8 +31,9 @@ sequenceDiagram
     participant John
     participant Alice
     Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-{% endmermaid %}
+    John>
+Alice: Great! -->
+<!-- {% endmermaid %}
 ```
 {% endraw %}
 
@@ -39,5 +42,6 @@ sequenceDiagram
     participant John
     participant Alice
     Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
-{% endmermaid %}
+    John> -->
+<!-- Alice: Great! -->
+<!-- {% endmermaid %} --> 
