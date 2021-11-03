@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 Machine Learning
-
+ 
 ___
 
 * __Supervised Learning__ [[Code]](https://github.com/shailymishra/) 
