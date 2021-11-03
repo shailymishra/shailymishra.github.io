@@ -33,7 +33,7 @@ ___
 
 ___
 
-- __j__ 
+<!-- - __j__ 
 [[Code]](https://github.com/HareeshBahuleyan/seizure-prediction-kaggle) <br>
   <p style="text-align:justify">EEG signals record electrical activity of the brain and can be used to predict the onset of a seizure. A competition conducted by the University of Melbourne on Kaggle required participants to classify 10-minute EEG clips into clips into either interictal or pre-ictal. I appoached the problem using an XGBoost classifier trained on (1) Time domain features, (2) Frequency domain features, and (3) EEG Specific Features. </p>
 
@@ -47,6 +47,6 @@ ___
 
 - __Airbnb Rental Price Prediction__ 
 [[Code]](https://github.com/HareeshBahuleyan/airbnb-analysis) <br>
-  <p style="text-align:justify">Python Selenium is used to scrape listings data from airbnb.ca for the city of Toronto. An extensive exploratory data analysis is carried out, following which, a price prediction model is built using information such as in-house amenitites and neighbourhood facilites as features.</p>
+  <p style="text-align:justify">Python Selenium is used to scrape listings data from airbnb.ca for the city of Toronto. An extensive exploratory data analysis is carried out, following which, a price prediction model is built using information such as in-house amenitites and neighbourhood facilites as features.</p> -->
 
 ___
