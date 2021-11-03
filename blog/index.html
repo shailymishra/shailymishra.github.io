@@ -49,7 +49,7 @@ pagination:
           {% endif %}
 
           {% if categories != "" %}
-          &nbsp; &middot; &nbsp;
+          &nbsp; &middot; &nbsp;  
             {% for category in post.categories %}
             <a href="{{ category | prepend: '/blog/category/' | prepend: site.baseurl}}">
               <i class="fas fa-tag fa-sm"></i> {{ category }}</a> &nbsp;
