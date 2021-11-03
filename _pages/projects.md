@@ -8,7 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-Machine Learning
+Machine Learning   
  
 ___
 
