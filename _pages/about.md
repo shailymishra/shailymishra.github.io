@@ -16,7 +16,10 @@ social: false  # includes social icons at the bottom of the page
 
 Hi!
 
-I am Shaily. I am an MS Student in [Machine Learning Lab, IIIT-Hyderabad](https://mll.iiit.ac.in/) advised by [Dr. Sujit Gujar](https://www.sujitgujar.com/). I am broadly interested in solving game-theoretic settings with theoretical limitations using Machine Learning. I am keen to explore other domains as well, such as Graph Neural Networks. And I like teaching.
+<!-- I am Shaily. I am an MS Student in [Machine Learning Lab, IIIT-Hyderabad](https://mll.iiit.ac.in/) advised by [Dr. Sujit Gujar](https://www.sujitgujar.com/). I am broadly interested in solving game-theoretic settings with theoretical limitations using Machine Learning. I am keen to explore other domains as well, such as Graph Neural Networks. And I like teaching. -->
+
+I am Shaily, MS Student in [Machine Learning Lab, IIIT-Hyderabad](https://mll.iiit.ac.in/) and advised by [Dr. Sujit Gujar](https://www.sujitgujar.com/). I have a broad interest in solving game-theoretic settings with theoretical limitations using Machine Learning. I am keen to explore other domains as well, such as Graph Neural Networks. Also, I like teaching.
+
 
 **Research Interests**: Game Theory, Fairness, Machine Learning, Graph Neural Networks.
 
